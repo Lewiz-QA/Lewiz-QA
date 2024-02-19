@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personal projects about Software Testing**
 
-- 🌱 I’m currently learning **various types of web and mobile testing with DevOps such as UI, API and performance testing**
+- 🌱 I’m currently learning **various types of web and mobile testing with DevOps such as UI, API and Performance testing**
 
 - 👯 I’m looking to collaborate on **deliver higher quality software focusing on usability**
 
