@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Software Testing area**
 
-- ⚡ Fun fact **I like design, music, arts and motorsport**
+- ⚡ Fun fact **I like design, music, books, arts and motorsport**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
