@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lewiz-qa" alt="lewiz-qa" /></a> </p>
 
-- 🔭 I’m currently working on **new personal projects about testing software**
+- 🔭 I’m currently working on **personal projects about Software Testing**
 
-- 🌱 I’m currently learning **different types of software testing**
+- 🌱 I’m currently learning **various types of web and mobile testing with DevOps such as UI, API and performance testing**
 
-- 👯 I’m looking to collaborate on **deliver higher quality software**
+- 👯 I’m looking to collaborate on **deliver higher quality software focusing on usability**
 
-- 💬 Ask me about **Software Testing**
+- 💬 Ask me about **Software Testing area**
 
 - ⚡ Fun fact **I like design, music, arts and motorsport**
 
