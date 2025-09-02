@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **deliver higher quality software focusing on usability**
 
-- 💬 Ask me about **Software Testing area**
+- 💬 Ask me about **Software Testing area**🕵‍♂️
 
-- ⚡ Fun fact **I like design, music, books, arts and motorsport**
+- ⚡ Fun fact **I like design, music, books, arts and motorsport** 🎹
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
